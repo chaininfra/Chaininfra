@@ -95,7 +95,6 @@ ChainInfra runs validators that combine:
 🌎 [Website](https://chaininfra.net)  
 🐦 [X / Twitter](https://x.com/lilreom)  
 💬 [Telegram](https://t.me/chaininfra)  
-💾 [Snapshots](https://chaininfra.net/snapshots)  
 📊 [Live Data Dashboard](https://chaininfra.net/live-data)  
 📧 [info@chaininfra.net](mailto:info@chaininfra.net)
 
