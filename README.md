@@ -1,10 +1,12 @@
-### ⚙️🌐💡☁️⚡🌩️🌥️🌦️🌧️🌨️🌤️🌤️🌥️⚙️💡☁️🌦️🌨️🌧️🌩️🌐⚙️🌤️🌦️☁️🌨️🌧️🌦️⚡🌩️🌨️🌤️🌥️☁️🌧️🌨️🌩️⚙️🌐⚡💡
+<p align="center">
+  ⚙️ 🌐 💡 ⚡ 🌩️ ☁️ 🌤️ 🌦️ 🌧️ 🌩️ ⚡ 💡 🌐 ☁️ 🌩️ ⚙️
+</p>
 
 <h1 align="center">🌩️ ChainInfra — Validator Infrastructure for the Decentralized Future</h1>
 
 <p align="center">
   <a href="https://chaininfra.net">
-    <img src="https://chaininfra.net/logo.png" width="120" alt="ChainInfra Logo"/>
+    <img src="https://chaininfra.net/logo.png" width="140" alt="ChainInfra Logo"/>
   </a>
 </p>
 
@@ -47,7 +49,7 @@ We focus on **security**, **transparency**, and **reliability** — building clo
 | **Seed Node** | Minnesota, US | `p2p.chaininfra.net:9876` | Peer discovery |
 | **Producer Node** | Minnesota, US | Private (secured) | Block production |
 
-🛰️ All nodes are full and independently managed, hosted on enterprise-grade hardware with redundant uplinks and on-site monitoring.
+🛰️ All nodes are full and independently managed, hosted on enterprise-grade hardware with redundant uplinks and real-time monitoring.
 
 ---
 
@@ -72,7 +74,7 @@ We focus on **security**, **transparency**, and **reliability** — building clo
 |-----------|---------|
 | **Dashboard** | [chaininfra.net/live-data](https://chaininfra.net/live-data) |
 | **Validator Info** | [chaininfra.net/block-producer](https://chaininfra.net/block-producer) |
-| **Delegation / Voting** | [Vote ChainInfra on XPR](https://webauth.com/vote?bp=chaininfra) |
+| **Voting / Staking XPR** | [Vote ChainInfra on XPR](https://explorer.xprnetwork.org/vote?producers=chaininfra) |
 
 ---
 
