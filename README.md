@@ -2,7 +2,7 @@
   ⚙️ 🌐 💡 ⚡ 🌩️ ☁️ 🌤️ 🌦️ 🌧️ 🌩️ ⚡ 💡 🌐 ☁️ 🌩️ ⚙️
 </p>
 
-<h1 align="center">🌩️ ChainInfra — Validator Infrastructure for the Decentralized Future</h1>
+<h1 align="center"> ChainInfra — Validator Infrastructure for the Decentralized Future</h1>
 
 <p align="center">
   <a href="https://chaininfra.net">
