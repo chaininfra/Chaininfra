@@ -72,7 +72,7 @@ We focus on **security**, **transparency**, and **reliability** — building clo
 
 | Category | Access |
 |-----------|---------|
-| **Dashboard** | [chaininfra.net/live-data](https://chaininfra.net/live-data) |
+| **Dashboard** | [chaininfra.net/live_data](https://chaininfra.net/live-data) |
 | **Validator Info** | [chaininfra.net/block-producer](https://chaininfra.net/block-producer) |
 | **Voting / Staking XPR** | [Vote ChainInfra on XPR](https://explorer.xprnetwork.org/vote?producers=chaininfra) |
 
